@@ -92,5 +92,5 @@ file.writelines(score)
 file.close()
 #5. Leader Board
 leaderboard()
-#Copyright Oli 2024
+
 
